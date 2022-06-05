@@ -1,0 +1,44 @@
+[
+    {
+        "id":100,
+        "name":"odin",
+        "age":1000,
+        "power":"god of god",
+        "place":"asguard"
+    },
+    {
+        "id":101,
+        "name":"Khonsu",
+        "age":1001,
+        "power":"moon god",
+        "place":"egypte"
+    },
+    {
+        "id":102,
+        "name":"thor",
+        "age":22,
+        "power":"thunder god",
+        "place":"asguard"
+    },
+    {
+        "id":103,
+        "name":"loky",
+        "age":21,
+        "power":"frost gaint",
+        "place":"at war"
+    },
+    {
+        "id":104,
+        "name":"hela",
+        "age":1000,
+        "power":"god of god",
+        "place":"asguard"
+    },
+    {
+        "id":105,
+        "name":"black panther",
+        "age":1001,
+        "power":"bast god",
+        "place":"Egypte"
+    }
+]
